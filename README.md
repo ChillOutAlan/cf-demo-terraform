@@ -2,7 +2,7 @@
 This is a demonstration instance of using Terraform to manage configurations for Cloudflare Zero Trust Access Policy and Core Cloudflare.
 
 <h2>Permissions need to operate:</h2>
-<h3>All accounts </h3>
+<h3>All accounts:</h3>
 Cloudflare One Networks:Edit, Cloudflare One Connectors:Edit, Cloudflare One Connector: WARP:Edit, Cloudflare One Connector: cloudflared:Edit, API Gateway:Edit, Notifications:Edit, URL Scanner:Edit, Access: SSH Auditing:Edit, Access: Custom Pages:Edit, Constellation:Edit, Cloudflare DEX:Edit, IOT:Edit, Account: SSL and Certificates:Edit, Allow Request Tracer:Read, Disable ESC:Edit, Account Custom Pages:Edit, HTTP Applications:Edit, Email Routing Addresses:Edit, Cloudflare Pages:Edit, Bulk URL Redirects:Edit,  L3/4 DDoS Managed Ruleset:Edit, Transform Rules:Edit, Select Configuration:Edit, Account WAF:Edit, Magic Firewall Packet Captures:Edit, Workers R2 Storage:Edit, Magic Transit:Edit, DDoS Protection:Edit, Account Rulesets:Edit, Account Analytics:Read, Cloudflare Tunnel:Edit, Access: Mutual TLS Certificates:Edit, Access: Device Posture:Edit, Access: Service Tokens:Edit, Access: Audit Logs:Read, Logs:Edit, Rule Policies:Edit, Account Filter Lists:Edit, Zero Trust:Edit, Access: Organizations, Identity Providers, and Groups:Edit, Workers KV Storage:Edit, Workers Scripts:Edit, Load Balancing: Monitors And Pools:Edit, Account Firewall Access Rules:Edit, DNS Firewall:Edit, Account Settings:Edit, Access: Apps and Policies:Edit.
 
 <h3>All zones:</h3>
